@@ -1,4 +1,4 @@
-- 👋 I, @DhammaWays, is a seeker walking on path of Dhamma who loves to code!
+- 👋 I am a seeker walking on path of Dhamma who loves to code!
 
 
 <!---
